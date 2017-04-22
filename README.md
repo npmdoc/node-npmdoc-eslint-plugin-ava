@@ -1,4 +1,7 @@
-# api documentation for  [eslint-plugin-ava (v4.2.0)](https://github.com/avajs/eslint-plugin-ava#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-ava.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-ava) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-ava.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-ava)
+# npmdoc-eslint-plugin-ava
+
+#### api documentation for  [eslint-plugin-ava (v4.2.0)](https://github.com/avajs/eslint-plugin-ava#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-eslint-plugin-ava.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-eslint-plugin-ava) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-ava.svg)](https://travis-ci.org/npmdoc/node-npmdoc-eslint-plugin-ava)
+
 #### ESLint rules for AVA
 
 [![NPM](https://nodei.co/npm/eslint-plugin-ava.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/eslint-plugin-ava)
@@ -115,7 +118,8 @@
         "rules": {
             "prefer-template": "off"
         }
-    }
+    },
+    "bin": {}
 }
 ```
 
