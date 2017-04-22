@@ -13,7 +13,7 @@
 <tspan x="10" y="170">  │   └── is-error@2.2.1 </tspan>
 <tspan x="10" y="186">  ├─┬ enhance-visitors@1.0.0 </tspan>
 <tspan x="10" y="202">  │ └── lodash@4.17.4 </tspan>
-<tspan x="10" y="218">  ├─┬ espree@3.4.1 </tspan>
+<tspan x="10" y="218">  ├─┬ espree@3.4.2 </tspan>
 <tspan x="10" y="234">  │ ├── acorn@5.0.3 </tspan>
 <tspan x="10" y="250">  │ └─┬ acorn-jsx@3.0.1 </tspan>
 <tspan x="10" y="266">  │   └── acorn@3.3.0 </tspan>
